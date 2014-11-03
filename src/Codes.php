@@ -1,5 +1,5 @@
 <?php
-namespace Iso6392;
+namespace Iso639;
 
 class Codes {
   private static $countries = array(
